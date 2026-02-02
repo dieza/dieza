@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on the Departament of Archaeology at the University of Valencia where I'm the chairperson.
+🔭 I’m currently working on the Departament of Archaeology at the University of Valencia.
 👯 I’m looking to collaborate on GIS and Archaeology, R coding and the use of Qgis, Meshlab, ClodudCompare, Blender and the like in Archaeology.
 🤔 I’m looking for help with databases in Archaeology.
 💬 Ask me about anything
